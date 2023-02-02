@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/apcera/termtables"
-	"github.com/chenminhua/gitfofo/types"
 	"sync"
+
+	termtables "github.com/brettski/go-termtables"
+	"github.com/chenminhua/gitfofo/types"
 )
 
 type RWMutexMap struct {

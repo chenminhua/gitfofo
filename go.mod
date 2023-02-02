@@ -1,8 +1,8 @@
 module github.com/chenminhua/gitfofo
 
-go 1.16
+go 1.19
 
 require (
-	github.com/apcera/termtables v0.0.0-20170405184538-bcbc5dc54055
-	github.com/mattn/go-runewidth v0.0.13 // indirect
+	github.com/brettski/go-termtables v0.0.0-20190907034855-12ddd59af020 // indirect
+	github.com/mattn/go-runewidth v0.0.3-0.20170201023540-14207d285c6c // indirect
 )
