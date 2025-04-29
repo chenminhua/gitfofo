@@ -2,3 +2,5 @@ github.com/brettski/go-termtables v0.0.0-20190907034855-12ddd59af020 h1:0AI3Zj64
 github.com/brettski/go-termtables v0.0.0-20190907034855-12ddd59af020/go.mod h1:m1lFPe1dlzu0nXHuCQVG/w2EeQNMA6h1MAaFLwUYAIM=
 github.com/mattn/go-runewidth v0.0.3-0.20170201023540-14207d285c6c h1:jQ6tSGsM/2TGhmbzHl9wXDtm2YjZDAfMsHyxaBDwywA=
 github.com/mattn/go-runewidth v0.0.3-0.20170201023540-14207d285c6c/go.mod h1:LwmH8dsx7+W8Uxz3IHJYH5QSwggIsqBzpuz5H//U1FU=
+golang.org/x/sync v0.13.0 h1:AauUjRAJ9OSnvULf/ARrrVywoJDy0YS2AwQ98I37610=
+golang.org/x/sync v0.13.0/go.mod h1:1dzgHSNfp02xaA81J2MS99Qcpr2w7fw1gpm99rleRqA=
